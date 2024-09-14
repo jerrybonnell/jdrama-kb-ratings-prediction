@@ -1,0 +1,7 @@
+python -m sklearnex supervised_ml.py 14 binary late 1 False
+python -m sklearnex supervised_ml.py 14 entity late 1 False
+python -m sklearnex supervised_ml.py 14 entity hist 1 False
+python -m sklearnex supervised_ml.py 14 binary late 1 True
+python -m sklearnex supervised_ml.py 14 entity late 1 True
+python -m sklearnex supervised_ml.py 14 entity hist 1 True
+python -m sklearnex supervised_ml.py 3 entity late 1 False

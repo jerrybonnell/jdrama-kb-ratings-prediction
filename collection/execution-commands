@@ -1,0 +1,3 @@
+java ExtractMain dataUTF8/ar0310.html extracted0.csv //// can be a directory
+java SynopsisMain copy_dramaOnlyPages_pages_000.txt synopsis.txt
+java Merge synopsis.txt extracted.csv merged.csv > res.txt

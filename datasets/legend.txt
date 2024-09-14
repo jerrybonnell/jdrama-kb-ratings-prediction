@@ -1,0 +1,37 @@
+"season" : the source file name is arXXYY.html. XX is the year 20XX and YY is one of 01, 04, 07, and 10. YY is the starting month of the season in the year.
+
+"aname" : inside the source file this is used a link as <a name="...">
+
+"title" : the title of the drama.
+
+"link" : the link to the tv stations page.
+
+"slot" : the slot in which the episodes are aired.
+	This text is broken down into the following:
+"day" : day of the week
+"startTime" : starting time (military time)
+"endTime" : ending time (military time)
+"episodes" : the number of episodes originally planned
+"episodesRev" : the number of episodes actually aired
+	if both values are not given, episodesRev is entered from
+	the number of percentage values
+
+"station" : TV station
+"percentage" : list of viewership values
+"date" : MM/DD of the episodes
+"ave" : the average viewership
+"actor" : list of actors
+"producer" : list of producers
+"chiefProducer" : list of chief producers
+"director" : list of directors
+"script" : list of script writers
+"original" : the original (books, animes, etc., if exists)
+"themeSong" : theme song
+"sungInDrama" : some dramas have charaacters who are singers and they sing
+"inDramaSong" : songs that appear only during episodes
+"endingMusic" : ending music
+"openingMusic" : opening music
+"themeMusic" : theme music
+"imageMusic" : image music
+"titleMusic" : title music
+
